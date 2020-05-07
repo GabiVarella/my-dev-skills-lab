@@ -1,0 +1,1 @@
+$("title").css("background-color", "green");

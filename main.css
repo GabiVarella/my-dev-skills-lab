@@ -1,0 +1,17 @@
+body {
+    padding: 120px;
+    text-align: center;
+    background: #54dabf;
+    color: white;
+    font-size: 30px;
+  }
+#title {
+    color: rgb(247, 209, 160);
+    background-color: green;
+}
+#csscheckbox, #htmlcheckbox {
+    background-color: rgb(173, 76, 125);
+}
+td (
+    font
+)
