@@ -8,10 +8,16 @@ body {
 #title {
     color: rgb(247, 209, 160);
     background-color: green;
+    margin: 20PX;
 }
 #csscheckbox, #htmlcheckbox {
     background-color: rgb(173, 76, 125);
 }
-td (
-    font
-)
+#cssdescription, #htmldescription {
+    color: rgb(141, 24, 165);
+    font-size: 22px;
+}
+    
+main {
+    position: center;
+}

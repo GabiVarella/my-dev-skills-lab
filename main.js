@@ -1,1 +1,1 @@
-$("title").css("background-color", "green");
+$("main").css("position", "center");
